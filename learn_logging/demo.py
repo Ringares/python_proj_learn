@@ -37,3 +37,4 @@ if __name__ == '__main__':
     logger.debug('debug msg')
     logger.info('debug msg')
     logger.warning('debug msg')
+    logger.warning('X 投影位置 %s' % 'as')

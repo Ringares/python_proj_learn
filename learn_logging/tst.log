@@ -1,8 +1,0 @@
-2018-01-05 11:48:54,515 demo.py[line:39] WARNING debug msg
-2018-01-05 11:48:58,432 demo.py[line:39] WARNING debug msg
-2018-01-05 11:49:13,066 demo.py[line:37] DEBUG debug msg
-2018-01-05 11:49:13,066 demo.py[line:38] INFO debug msg
-2018-01-05 11:49:13,067 demo.py[line:39] WARNING debug msg
-2018-01-05 11:49:14,487 demo.py[line:37] DEBUG debug msg
-2018-01-05 11:49:14,488 demo.py[line:38] INFO debug msg
-2018-01-05 11:49:14,488 demo.py[line:39] WARNING debug msg
